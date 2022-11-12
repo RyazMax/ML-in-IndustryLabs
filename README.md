@@ -7,5 +7,5 @@ Laboratory works for ITMO course "ML in Industry"
 * Aleksandr Voskresenskii
 
 # Tasks
-* LR1 - Number of posts prediction for geo-regions of St.Petersburg
-* LR2 - Multimodal movie genre classification
+* LW1 - Number of posts prediction for geo-regions of St.Petersburg
+* LW2 - Multimodal movie genre classification
