@@ -4,7 +4,7 @@ Laboratory works for ITMO course "ML in Industry"
 # Team
 * Maxim Ryazanov J42322c
 * Nikita Kulin
-* Aleksandr Voskresenskii
+* Aleksandr Voskresenskii J42332c
 
 # Tasks
 * LW1 - Number of posts prediction for geo-regions of St.Petersburg
