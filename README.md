@@ -9,3 +9,7 @@ Laboratory works for ITMO course "ML in Industry"
 # Tasks
 * LW1 - Number of posts prediction for geo-regions of St.Petersburg
 * LW2 - Multimodal movie genre classification
+
+# Example of work for LW1
+
+![alt text](LR1-prediction-example.png)
