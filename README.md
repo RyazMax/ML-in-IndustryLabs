@@ -3,7 +3,7 @@ Laboratory works for ITMO course "ML in Industry"
 
 # Team
 * Maxim Ryazanov J42322c
-* Nikita Kulin
+* Nikita Kulin J42322c
 * Aleksandr Voskresenskii J42332c
 
 # Tasks
